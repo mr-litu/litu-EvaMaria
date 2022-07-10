@@ -10,10 +10,10 @@ class script(object):
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
-    SOURCE_TXT ="""<b>ᴍᴀʀᴄᴜs ʙᴏᴛ</b>
+    SOURCE_TXT ="""<b>♛S̶H̶Y̶A̶M̶</b>
 ✰ ғᴏʀ ʀᴇᴘᴏ ᴏғ ʙᴏᴛ.\n ᴄᴏɴᴛᴀᴄᴛ @marcusxbot 
 <b>💞 sᴜᴘᴘᴏʀᴛ</b>
-- <a href=https://t.me/top10ner_0>ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ</a>"""
+- <a href=https://t.me/+dAR03k6Zo9g5ZGY1>ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -38,7 +38,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https://t.me/+7WZJ-jBEG9U1MmE1)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
