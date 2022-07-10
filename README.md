@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/subscribe-black?logo=" width="780">
 <p align="center">
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{itz-mrshyam}/count.svg"/></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mr-litu}/count.svg"/></p>
 <a href="https://telegram.me/itz_mrshyam">
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=itz-mrshyam&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
