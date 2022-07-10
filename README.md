@@ -1,3 +1,16 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=90&duration=1500&color-035&background=FFFFFF00&center=true&vCenter=true&width=650&height=50&lines=Hey!+I+am;Shyam;Developer+👨‍💻;SHYAM" alt="Shyam" width="650" height="50">
+<a href="https://youtube.com/channel/UCfk2wS7vZYzLR_Pk1eIb2yw">
+<img src="https://img.shields.io/badge/subscribe-black?logo=" width="780">
+<p align="center">
+<br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{itz-mrshyam}/count.svg"/></p>
+<a href="https://telegram.me/itz_mrshyam">
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=itz-mrshyam&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itz-mrshyam&theme=highcontrast)](https://github.com/itz-mrshyam/github-readme-streak-stats)
+</div>
 <p align="center">
   <img src="assets/logo.jpg" alt="Eva Maria Logo">
 </p>
@@ -6,13 +19,13 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/itz-mrshyam/EvaMaria/stargazers)
+[![Forks](https://img.shields.io/github/forks/itz-mrshyam/EvaMaria?style=flat-square&color=orange)](https://github.com/itz-mrshyam/EvaMaria/fork)
+[![Size](https://img.shields.io/github/repo-size/itz-mrshyam/EvaMaria?style=flat-square&color=green)](https://github.com/itz-mrshyam/EvaMaria/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/itz-mrshyam/EvaMaria)   
+[![Contributors](https://img.shields.io/github/contributors/itz-mrshyam/EvaMaria?style=flat-square&color=green)](https://github.com/itz-mrshyam/EvaMaria/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/itz-mrshyam/EvaMaria/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/itz-mrshyam/EvaMaria.svg)](https://stars.medv.io/itz-mrshyam/EvaMaria)
 
 
 ## Features
@@ -32,7 +45,7 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
+Read [this](https://telegram.dog/itz_mrshyam) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -46,7 +59,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
+* Check [info.py](https://github.com/itz-mrshyam/evamaria/blob/master/info.py) for more
 
 
 ## Deploy
@@ -66,7 +79,8 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone https://github.com/Ev
+/evamaria
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -105,11 +119,11 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeamEvamaria)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/mst_file)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/mst_file)
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/itz_mrshyam)
 
 
 ## Thanks to 
